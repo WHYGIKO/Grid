@@ -9,6 +9,9 @@
     margin: 0 auto;
     padding: 0 15px;
 }
+body {
+    margin-top: 130px;
+}
 .box {
     display: flex;
     gap: 15px;
